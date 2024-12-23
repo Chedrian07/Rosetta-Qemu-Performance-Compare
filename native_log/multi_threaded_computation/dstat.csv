@@ -1,0 +1,7 @@
+"pcp-dstat 6.2.0 CSV Output"
+"Author:","PCP team <pcp@groups.io> and Dag Wieers <dag@wieers.com>",,,,"URL:","https://pcp.io/ and http://dag.wieers.com/home-made/dstat/"
+"Host:","ubuntu24-arm",,,,"User:","kch3dri4n"
+"Cmdline:","dstat -cdngym 1 100 --output native_log/multi_threaded_computation/dstat.csv",,,,"Date:","23 Dec 2024 11:36:48 KST"
+"total usage",,,,,"dsk/total",,"net/total",,"paging",,"system",,"memory usage",,,
+"total usage:usr","total usage:sys","total usage:idl","total usage:wai","total usage:stl","dsk/total:read","dsk/total:writ","net/total:recv","net/total:send","in","out","int","csw","used","free","buf","cach"
+,,,,,,,714712,27621752,92,400812

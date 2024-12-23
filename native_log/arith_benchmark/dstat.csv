@@ -1,0 +1,12 @@
+"pcp-dstat 6.2.0 CSV Output"
+"Author:","PCP team <pcp@groups.io> and Dag Wieers <dag@wieers.com>",,,,"URL:","https://pcp.io/ and http://dag.wieers.com/home-made/dstat/"
+"Host:","ubuntu24-arm",,,,"User:","kch3dri4n"
+"Cmdline:","dstat -cdngym 1 100 --output native_log/arith_benchmark/dstat.csv",,,,"Date:","23 Dec 2024 11:36:37 KST"
+"total usage",,,,,"dsk/total",,"net/total",,"paging",,"system",,"memory usage",,,
+"total usage:usr","total usage:sys","total usage:idl","total usage:wai","total usage:stl","dsk/total:read","dsk/total:writ","net/total:recv","net/total:send","in","out","int","csw","used","free","buf","cach"
+,,,,,,,695392,27747856,92,294284
+10.067,0.100,90.104,0,0,7.974,0,155.489,0,0,0,1119,216,693596,27749644,92,294292
+10.003,0,89.925,0,0,0,0,0,0,0,0,1147,274,694328,27748900,92,294304
+10.012,0,90.011,0,0,0,0,0,0,0,0,1104,196,694052,27748820,92,294788
+10.011,0,89.596,0,0,0,0,0,0,0,0,1105,200,691376,27751488,92,294796
+9.953,0,90.274,0,0,0,0,0,0,0,0,1099,182,691364,27751488,92,294808

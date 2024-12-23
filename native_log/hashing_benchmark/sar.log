@@ -1,0 +1,5 @@
+Linux 6.12.5-orbstack-00287-gf8da5d508983 (ubuntu24-arm) 	12/23/24 	_aarch64_	(10 CPU)
+
+11:36:45        CPU     %user     %nice   %system   %iowait    %steal     %idle
+11:36:46        all     10.21      0.00      0.10      0.00      0.00     89.69
+Average:        all     10.21      0.00      0.10      0.00      0.00     89.69
